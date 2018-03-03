@@ -1,1 +1,3 @@
-# spring-boot-actuator
+# Spring Boot Actuator Example
+
+Trying out Spring Boot Actuator.
